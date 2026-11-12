@@ -1,0 +1,9 @@
+# 本地安装的其他技能（含内部资料），不属于本仓库
+.claude/
+
+.DS_Store
+__pycache__/
+*.pyc
+
+# 运行产物
+.ux-refine/
